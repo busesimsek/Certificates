@@ -9,5 +9,5 @@ I invite you to explore this showcase and discover the diverse range of competen
 
 Thank you for your interest in my journey of growth and learning!
 
-Sincerely,
+Sincerely,<br>
 Buse
